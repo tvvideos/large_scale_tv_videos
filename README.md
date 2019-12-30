@@ -9,11 +9,11 @@ This dataset consists of over 130k MP4 video clips, with duration ranging from 1
 + Total file size: 11.4G
 
 ## Screenshots
-![](/img/1.jpg) 
+![](1.jpg) 
 
-![](/img/2.jpg) 
+![](2.jpg) 
 
-![](/img/3.jpg)
+![](3.jpg)
 
 ## Download
 Please contact tv_videos@yahoo.com for downloading this dataset.
